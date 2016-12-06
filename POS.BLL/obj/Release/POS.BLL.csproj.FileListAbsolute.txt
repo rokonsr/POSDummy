@@ -1,0 +1,9 @@
+E:\Rokon\POS\POS.BLL\bin\Release\POS.BLL.dll
+E:\Rokon\POS\POS.BLL\bin\Release\POS.BLL.pdb
+E:\Rokon\POS\POS.BLL\bin\Release\POS.DAL.dll
+E:\Rokon\POS\POS.BLL\bin\Release\POS.Model.dll
+E:\Rokon\POS\POS.BLL\bin\Release\POS.DAL.pdb
+E:\Rokon\POS\POS.BLL\bin\Release\POS.Model.pdb
+E:\Rokon\POS\POS.BLL\obj\Release\POS.BLL.csprojResolveAssemblyReference.cache
+E:\Rokon\POS\POS.BLL\obj\Release\POS.BLL.dll
+E:\Rokon\POS\POS.BLL\obj\Release\POS.BLL.pdb

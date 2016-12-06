@@ -1,0 +1,5 @@
+E:\Rokon\POS\POS.DAL\bin\Release\POS.DAL.dll
+E:\Rokon\POS\POS.DAL\bin\Release\POS.DAL.pdb
+E:\Rokon\POS\POS.DAL\obj\Release\POS.DAL.csprojResolveAssemblyReference.cache
+E:\Rokon\POS\POS.DAL\obj\Release\POS.DAL.dll
+E:\Rokon\POS\POS.DAL\obj\Release\POS.DAL.pdb

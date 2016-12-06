@@ -1,0 +1,66 @@
+﻿body {
+
+}
+
+.login
+{
+    background-color:#e9e9e9;
+    border-radius:10px;
+    margin-left:35%;
+    margin-top:15%;
+    padding:15px;
+    width:400px;
+}
+
+.ctheader
+{
+    padding: 5px 250px;
+    height:30px;
+    background-color: #e9e9e9;
+}
+
+.ctsidebar
+{
+    /*background-color:aquamarine;*/
+    width:25%;
+    float:left;
+}
+
+.ctcontent
+{
+    /*background-color:antiquewhite;*/
+    width:75%;
+    float:left;
+    padding:10px 35px;
+}
+
+.ctfooter
+{
+    width:100%;
+    float:left;
+    text-align:center;
+}
+
+.cellpadding td
+{
+    padding:5px;
+}
+
+.cellpaddingh th
+{
+    padding:5px;
+}
+
+.ctbutton
+{
+    background-color:black;
+    border-radius:5px;
+    font-weight:bolder;
+}
+
+.ctbutton a:hover
+{
+    background-color:#e8c1c1;
+    border-radius:5px;
+    color:#c200a0;
+}

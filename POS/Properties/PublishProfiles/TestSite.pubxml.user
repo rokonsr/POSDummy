@@ -1,0 +1,202 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit http://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <_PublishTargetUrl>J:\TestSite</_PublishTargetUrl>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="bin/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll">
+      <publishTime>09/29/2016 19:57:41</publishTime>
+    </File>
+    <File Include="bin/POS.BLL.dll">
+      <publishTime>10/17/2016 16:48:25</publishTime>
+    </File>
+    <File Include="bin/POS.DAL.dll">
+      <publishTime>10/17/2016 16:48:25</publishTime>
+    </File>
+    <File Include="bin/POS.dll">
+      <publishTime>10/17/2016 17:01:58</publishTime>
+    </File>
+    <File Include="bin/POS.Model.dll">
+      <publishTime>10/17/2016 16:48:25</publishTime>
+    </File>
+    <File Include="bin/roslyn/csc.exe">
+      <publishTime>09/29/2016 19:57:41</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.Build.Tasks.CodeAnalysis.dll">
+      <publishTime>09/29/2016 19:57:41</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.CSharp.dll">
+      <publishTime>09/29/2016 19:57:41</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.dll">
+      <publishTime>09/29/2016 19:57:41</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.VisualBasic.dll">
+      <publishTime>09/29/2016 19:57:41</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CSharp.Core.targets">
+      <publishTime>09/29/2016 19:57:41</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.VisualBasic.Core.targets">
+      <publishTime>09/29/2016 19:57:41</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Collections.Immutable.dll">
+      <publishTime>09/29/2016 19:57:41</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Reflection.Metadata.dll">
+      <publishTime>09/29/2016 19:57:41</publishTime>
+    </File>
+    <File Include="bin/roslyn/vbc.exe">
+      <publishTime>09/29/2016 19:57:41</publishTime>
+    </File>
+    <File Include="bin/roslyn/VBCSCompiler.exe">
+      <publishTime>09/29/2016 19:57:41</publishTime>
+    </File>
+    <File Include="bin/roslyn/VBCSCompiler.exe.config">
+      <publishTime>09/29/2016 19:57:41</publishTime>
+    </File>
+    <File Include="CategoryUI/AddCategory.aspx">
+      <publishTime>10/10/2016 16:27:42</publishTime>
+    </File>
+    <File Include="CategoryUI/CheckExistingCategory.asmx">
+      <publishTime>10/10/2016 16:17:27</publishTime>
+    </File>
+    <File Include="Content/AutoComplete/jquery-ui.css">
+      <publishTime>10/03/2016 12:28:20</publishTime>
+    </File>
+    <File Include="Content/AutoComplete/jquery-ui.js">
+      <publishTime>10/03/2016 12:28:20</publishTime>
+    </File>
+    <File Include="Content/AutoComplete/jquery.js">
+      <publishTime>10/03/2016 12:28:20</publishTime>
+    </File>
+    <File Include="Content/bootstrap-theme.css">
+      <publishTime>09/30/2016 09:32:40</publishTime>
+    </File>
+    <File Include="Content/bootstrap-theme.css.map">
+      <publishTime>09/30/2016 09:32:40</publishTime>
+    </File>
+    <File Include="Content/bootstrap-theme.min.css">
+      <publishTime>09/30/2016 09:32:40</publishTime>
+    </File>
+    <File Include="Content/bootstrap-theme.min.css.map">
+      <publishTime>09/30/2016 09:32:40</publishTime>
+    </File>
+    <File Include="Content/bootstrap.css">
+      <publishTime>09/30/2016 09:32:40</publishTime>
+    </File>
+    <File Include="Content/bootstrap.css.map">
+      <publishTime>09/30/2016 09:32:40</publishTime>
+    </File>
+    <File Include="Content/bootstrap.min.css">
+      <publishTime>09/30/2016 09:32:40</publishTime>
+    </File>
+    <File Include="Content/bootstrap.min.css.map">
+      <publishTime>09/30/2016 09:32:40</publishTime>
+    </File>
+    <File Include="Content/site.css">
+      <publishTime>10/08/2016 19:18:09</publishTime>
+    </File>
+    <File Include="fonts/glyphicons-halflings-regular.eot">
+      <publishTime>09/30/2016 09:32:40</publishTime>
+    </File>
+    <File Include="fonts/glyphicons-halflings-regular.svg">
+      <publishTime>09/30/2016 09:32:40</publishTime>
+    </File>
+    <File Include="fonts/glyphicons-halflings-regular.ttf">
+      <publishTime>09/30/2016 09:32:39</publishTime>
+    </File>
+    <File Include="fonts/glyphicons-halflings-regular.woff">
+      <publishTime>09/30/2016 09:32:39</publishTime>
+    </File>
+    <File Include="fonts/glyphicons-halflings-regular.woff2">
+      <publishTime>09/30/2016 09:32:39</publishTime>
+    </File>
+    <File Include="Home.aspx">
+      <publishTime>10/04/2016 19:21:45</publishTime>
+    </File>
+    <File Include="Images/butterfly-animated-gif-45.gif">
+      <publishTime>10/01/2016 12:27:29</publishTime>
+    </File>
+    <File Include="Images/flyingbird.gif">
+      <publishTime>10/01/2016 12:29:48</publishTime>
+    </File>
+    <File Include="Login.aspx">
+      <publishTime>10/05/2016 18:35:11</publishTime>
+    </File>
+    <File Include="Logout.aspx">
+      <publishTime>09/30/2016 11:19:18</publishTime>
+    </File>
+    <File Include="MeasurementUI/AddMeasurement.aspx">
+      <publishTime>10/10/2016 16:33:44</publishTime>
+    </File>
+    <File Include="MeasurementUI/CheckExistingMeasurement.asmx">
+      <publishTime>10/10/2016 16:30:03</publishTime>
+    </File>
+    <File Include="packages.config">
+      <publishTime>09/30/2016 09:32:40</publishTime>
+    </File>
+    <File Include="ProductUI/AddProduct.aspx">
+      <publishTime>10/13/2016 17:20:42</publishTime>
+    </File>
+    <File Include="ProductUI/AutoCompleteProduct.asmx">
+      <publishTime>10/05/2016 11:33:04</publishTime>
+    </File>
+    <File Include="ProductUI/CheckExistingProduct.asmx">
+      <publishTime>10/10/2016 15:05:32</publishTime>
+    </File>
+    <File Include="ProductUI/Products.aspx">
+      <publishTime>10/13/2016 12:28:17</publishTime>
+    </File>
+    <File Include="ReportUI/ReportUI.aspx">
+      <publishTime>10/10/2016 12:31:37</publishTime>
+    </File>
+    <File Include="SaleUI/Sale.aspx">
+      <publishTime>10/10/2016 16:00:40</publishTime>
+    </File>
+    <File Include="SaleUI/SaleProductSearch.asmx">
+      <publishTime>10/05/2016 12:05:48</publishTime>
+    </File>
+    <File Include="Scripts/bootstrap.js">
+      <publishTime>09/30/2016 09:32:39</publishTime>
+    </File>
+    <File Include="Scripts/bootstrap.min.js">
+      <publishTime>09/30/2016 09:32:39</publishTime>
+    </File>
+    <File Include="Scripts/CheckExistingCategory.js">
+      <publishTime>10/10/2016 16:26:50</publishTime>
+    </File>
+    <File Include="Scripts/CheckExistingMeasurement.js">
+      <publishTime>10/10/2016 16:33:34</publishTime>
+    </File>
+    <File Include="Scripts/CheckExistingProduct.js">
+      <publishTime>10/10/2016 15:08:29</publishTime>
+    </File>
+    <File Include="Scripts/jquery-1.9.1.js">
+      <publishTime>09/30/2016 09:32:32</publishTime>
+    </File>
+    <File Include="Scripts/jquery-1.9.1.min.js">
+      <publishTime>09/30/2016 09:32:32</publishTime>
+    </File>
+    <File Include="Scripts/jquery-1.9.1.min.map">
+      <publishTime>09/30/2016 09:32:32</publishTime>
+    </File>
+    <File Include="Scripts/txtSearch.js">
+      <publishTime>10/05/2016 11:48:11</publishTime>
+    </File>
+    <File Include="Scripts/txtSearchProductSale.js">
+      <publishTime>10/07/2016 10:44:11</publishTime>
+    </File>
+    <File Include="Site.Master">
+      <publishTime>10/08/2016 16:58:34</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>10/17/2016 16:48:27</publishTime>
+    </File>
+  </ItemGroup>
+</Project>

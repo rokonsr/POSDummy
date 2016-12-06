@@ -1,0 +1,14 @@
+E:\Rokon\POS\POS.Model\bin\Debug\POS.Model.dll
+E:\Rokon\POS\POS.Model\bin\Debug\POS.Model.pdb
+E:\Rokon\POS\POS.Model\obj\Debug\POS.Model.dll
+E:\Rokon\POS\POS.Model\obj\Debug\POS.Model.pdb
+E:\Rokon\POS\POS.Model\obj\Debug\POS.Model.csprojResolveAssemblyReference.cache
+D:\Rokon\POS\POS.Model\bin\Debug\POS.Model.dll
+D:\Rokon\POS\POS.Model\bin\Debug\POS.Model.pdb
+D:\Rokon\POS\POS.Model\obj\Debug\POS.Model.dll
+D:\Rokon\POS\POS.Model\obj\Debug\POS.Model.pdb
+F:\Rokon\POS\POS.Model\bin\Debug\POS.Model.dll
+F:\Rokon\POS\POS.Model\bin\Debug\POS.Model.pdb
+F:\Rokon\POS\POS.Model\obj\Debug\POS.Model.csprojResolveAssemblyReference.cache
+F:\Rokon\POS\POS.Model\obj\Debug\POS.Model.dll
+F:\Rokon\POS\POS.Model\obj\Debug\POS.Model.pdb

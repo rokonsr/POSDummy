@@ -1,0 +1,108 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Site.master.cs" Inherits="POS.Site" %>
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <title></title>
+    <link href="Content/site.css" rel="stylesheet" />
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+
+</head>
+<body>
+    <form id="form1" runat="server">
+        <div class="container-fluid ctheader">
+            <table width="100%">
+                <tr>
+                    <td>Welcome : <b>
+                        <asp:Label ID="displayUserName" runat="server" Text=""></asp:Label></b>
+                    </td>
+                    <td style="text-align: right;">
+                        <a runat="server" href="Logout.aspx">| Logout |</a>
+                    </td>
+                </tr>
+            </table>
+        </div>
+
+        <div class="container">
+            <div class="ctsidebar">
+
+                <div class="row">
+                    <div class="span3">
+                        <label class="tree-toggle nav-header btn-block ctbutton">
+                            <ul class="nav nav-list">
+                                <li><a runat="server" href="~/Home.aspx">Home</a></li>
+                            </ul>
+                        </label>
+                        <div class="well">
+
+                            <ul class="nav nav-list">
+                                <label class="tree-toggle nav-header">Product</label>
+                                <ul class="nav nav-list tree">
+                                    <li><a runat="server" href="~/ProductUI/Products.aspx">Product List</a></li>
+                                    <li><a runat="server" href="ProductUI/AddProduct.aspx">Add Product</a></li>
+                                </ul>
+                            </ul>
+                            <ul class="nav nav-list">
+                                <label class="tree-toggle nav-header">Category</label>
+                                <ul class="nav nav-list tree">
+                                    <li><a runat="server" href="~/CategoryUI/AddCategory.aspx">Add Category</a></li>
+                                </ul>
+                            </ul>
+                            <ul class="nav nav-list">
+                                <label class="tree-toggle nav-header">Measurement</label>
+                                <ul class="nav nav-list tree">
+                                    <li><a runat="server" href="~/MeasurementUI/AddMeasurement.aspx">Add Measurement</a></li>
+                                </ul>
+                            </ul>
+                            <ul class="nav nav-list">
+                                <label class="tree-toggle nav-header">Sales</label>
+                                <ul class="nav nav-list tree">
+                                    <li><a runat="server" href="~/SaleUI/Sale.aspx">Sale</a></li>
+                                </ul>
+                            </ul>
+                            <ul class="nav nav-list">
+                                <label class="tree-toggle nav-header">Reports</label>
+                                <ul class="nav nav-list tree">
+                                    <li><a runat="server" href="~/ReportUI/ReportUI.aspx">Daily Report</a></li>
+                                </ul>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+
+            </div>
+
+            <div class="ctcontent">
+                <asp:ContentPlaceHolder ID="ContentPlaceHolder" runat="server">
+                </asp:ContentPlaceHolder>
+            </div>
+            <div class="ctfooter">
+                <hr />
+                <table style="width: 100%">
+                    <tr>
+                        <td>Point of Sale System
+                        </td>
+                        <td>&copy; Copyright by Juvenile Pacers.
+                        </td>
+                    </tr>
+                </table>
+
+            </div>
+        </div>
+    </form>
+    <script>
+        $('.tree-toggle').click(function () {
+            $(this).parent().children('ul.tree').toggle(200);
+
+        });
+        $(function () {
+            $('.tree-toggle').parent().children('ul.tree');
+
+        })
+    </script>
+</body>
+</html>
+
